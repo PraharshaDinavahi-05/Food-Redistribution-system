@@ -4,7 +4,6 @@ FoodBridge
 <img src="src/main/webapp/assets/Banner.png">
 FoodBridge is a web application designed to connect Food and Beverage (F&B) organizations with charities, enabling efficient redistribution of excess food. The primary goal is to minimize food wastage and alleviate hunger by redirecting surplus food to those in need.
 
-Watch the live demo and explore the project proposal.
 
 Motivation
 Food wastage, hunger, and food insecurity remain critical global issues that directly impact the quality of life. Excess food often ends up in landfills, requiring additional waste disposal facilities and contributing to unnecessary energy consumption.
