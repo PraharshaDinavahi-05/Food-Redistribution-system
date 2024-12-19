@@ -1,14 +1,14 @@
 # Food-Redistribution-system
 Food redistribution system
-FoodBridge
+FoodOn
 <img src="src/main/webapp/assets/Banner.png">
-FoodBridge is a web application designed to connect Food and Beverage (F&B) organizations with charities, enabling efficient redistribution of excess food. The primary goal is to minimize food wastage and alleviate hunger by redirecting surplus food to those in need.
+FoodOn is a web application designed to connect Food and Beverage (F&B) organizations with charities, enabling efficient redistribution of excess food. The primary goal is to minimize food wastage and alleviate hunger by redirecting surplus food to those in need.
 
 
 Motivation
 Food wastage, hunger, and food insecurity remain critical global issues that directly impact the quality of life. Excess food often ends up in landfills, requiring additional waste disposal facilities and contributing to unnecessary energy consumption.
 
-By redistributing surplus food to individuals and communities in need, FoodBridge aims to improve their standard of living and address these problems sustainably—without increasing overall food production.
+By redistributing surplus food to individuals and communities in need, FoodOn aims to improve their standard of living and address these problems sustainably—without increasing overall food production.
 
 Key User Groups
 Food and Beverage organizations.
@@ -21,7 +21,7 @@ Dedicated sections for charities and restaurants.
 Donation Form and Inbox:
 Easy-to-use interface for creating, managing, and tracking donations.
 Development Overview
-FoodBridge is built as a Google App Engine Standard Java application, ensuring reliability, scalability, and integration with Google Cloud services.
+FoodOn is built as a Google App Engine Standard Java application, ensuring reliability, scalability, and integration with Google Cloud services.
 
 Setup Guide
 Prerequisites
